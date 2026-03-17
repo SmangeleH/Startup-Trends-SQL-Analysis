@@ -67,13 +67,13 @@ What is the average startup size by location?
 
 Project Files
 
-create_table.sql — creates the database and startups table
+create_table.sql: creates the database and startups table
 
-insert_data.sql — inserts the dataset into the table
+insert_data.sql: inserts the dataset into the table
 
-analysis_queries.sql — contains the SQL analysis queries
+analysis_queries.sql: contains the SQL analysis queries
 
-README.md — project documentation
+README.md: project documentation
 
 Example Insights
 
